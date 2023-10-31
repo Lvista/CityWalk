@@ -1,0 +1,16 @@
+No.1 Test:
+Anchor A2:0.6734757 Latency: 4.359951
+Anchor A3:4.850301 Latency: 5.400604
+Anchor A4:2.456706 Latency: 3.768448
+Anchor A5:10.19866 Latency: 11.13537
+Anchor A6:7.162125 Latency: 5.144722
+Anchor A3:5.006603 Latency: 2.742317
+Anchor A4:3.394249 Latency: 2.801376
+Anchor A5:0.5630175 Latency: 3.313301
+Anchor A6:1.457637 Latency: 4.06205
+Anchor A4:1.085164 Latency: 2.255005
+Anchor A5:0.5355885 Latency: 3.266716
+Anchor A6:7.207779 Latency: 4.503586
+Anchor A5:0.1266688 Latency: 1.695602
+Anchor A6:2.295672 Latency: 4.688118
+Anchor A6:4.265078 Latency: 2.446388
